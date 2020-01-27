@@ -1,1 +1,1 @@
-import "./example-manager/example.manager.ts";
+import "./logger/logger.manager";
